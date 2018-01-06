@@ -1,0 +1,20 @@
+ext {
+
+    buildToolsVersion = '27.0.3'
+    minSdkVersion = 19
+    targetSdkVersion = 27
+    compileSdkVersion = 27
+
+    junitVersion = '4.12'
+    mockitoVersion = '2.8.9'
+    espressoVersion = '2.2.2'
+
+    supportLibVersion = '27.0.2'
+    constraintLayoutVersion = '1.0.2'
+    architectureComponentsVersion = '1.0.0'
+    roomVersion = '1.0.0'
+
+    retrofitVersion = '2.3.0'
+
+    daggerVersion = '2.11'
+}
